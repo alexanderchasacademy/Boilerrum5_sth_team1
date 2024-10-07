@@ -3,3 +3,8 @@ question 1.
 Which colors do the swedish flag consist of? 
 1. blue and yellow. 2. Green and red. 3. Brown and pink.
 
+
+question 3. 
+
+How many people live in sweden?
+1. 8 million. 2. 9 million. 3. 10 million.
