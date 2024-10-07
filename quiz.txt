@@ -2,3 +2,9 @@ question 1.
 
 Which colors do the swedish flag consist of? 
 1. blue and yellow. 2. Green and red. 3. Brown and pink.
+
+question 4:
+
+how many people own a dog in Sweden?
+
+1. 500 000. 2. 1 000 000. 3. 1 500 000. 
